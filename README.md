@@ -8,7 +8,7 @@ python main.py input_1.txt
 
 ## Logic
 
-I used logic to find min and max of each ChargerID and the total uptime 
+I used logic  to find min and max of each ChargerID and the total uptime 
 
 Later i calculated percentage as follows:
 
